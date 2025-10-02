@@ -263,7 +263,7 @@ section {
 
 /* ABOUT SECTION */
 
-#about {
+/* #about {
   position: relative;
 }
 
@@ -281,7 +281,7 @@ section {
 .about-containers,
 .about-details-container {
   display: flex;
-}
+} */
 
 /* .about-pic {
   border-radius: 2rem;
@@ -293,7 +293,7 @@ section {
   bottom: 2.5rem;
 } */
 
-.details-container {
+/* .details-container {
   padding: 1.5rem;
   flex: 1;
   background: white;
@@ -301,10 +301,10 @@ section {
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
   text-align: center;
-}
+} */
 
 /* ABOUT ME To Experience and Education section length reduced 80% t0 60% */
-.section-container {
+/* .section-container {
   gap: 4rem;
   height: 80%;
 }
@@ -313,7 +313,7 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
-}
+} */
 
 /* EXPERIENCE SECTION */
 
