@@ -19,17 +19,17 @@
   #hamburger-nav {
     display: flex;
   }
-  #experience,
+  /* #experience,
   .experience-details-container {
     margin-top: 2rem;
-  }
+  } */
   #profile,
   .section-container {
     display: block;
   }
-  .arrow {
+  /* .arrow {
     display: none;
-  }
+  } */
   section,
   .section-container {
     height: fit-content;
@@ -53,7 +53,7 @@
     height: 40vh;
   }
   #profile {
-    height: 83vh;
+    height: 73vh;
     margin-bottom: 0;
   }
   article {
