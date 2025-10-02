@@ -306,7 +306,7 @@ section {
 /* ABOUT ME To Experience and Education section length reduced 80% t0 60% */
 .section-container {
   gap: 4rem;
-  height: 60%;
+  height: 80%;
 }
 
 .section__pic-container {
