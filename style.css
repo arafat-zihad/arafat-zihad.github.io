@@ -407,7 +407,7 @@ article .icon {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 1.0rem;
+  gap: 2 rem;
   margin: 0.5rem;
 }
 
