@@ -1,0 +1,91 @@
+{
+    "data": {
+        "fullName": "Arafat Zihad",
+        "navtext": "Arafat Zihad",
+        "email": "zihad.inbox@gmail.com",
+        "titleArray": [
+            "CSE Student",
+            "Full-Stack Web Developer",
+            "Aspiring Software Engineer"
+        ],
+        "resumeLink": "https://drive.google.com/file/d/1bbcYtGTyfM8WrfWKHpdt6aVO3YrwVyvJ/view?usp=sharing",
+        "skills": [
+            "/icons/JavaScript.png",
+            "/icons/React.png",
+            "/icons/Nextjs.png",
+            "/icons/Tailwind.png",
+            "/icons/Typescript.png",
+            "/icons/Python.png",
+            "/icons/Nodejs.png",
+            "/icons/ExpressJs.png",
+            "/icons/MongoDB.png",
+            "/icons/MySQL.png",
+            "/icons/Java.png",
+            "/icons/Git.png"
+        ],
+        "projects": [
+             {
+                "title": "Prognify",
+                "type": "Full Stack",
+                "description": "An online programming learning platform with course enrollment, learning resources, progress tracking, user dashboards, authentication, search, filtering, and course management for instructors and administrators.",
+                "techStack": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "Node.js",
+                    "Express.js",
+                    "MySQL"
+                ],
+                "category" : "Full Stack",
+                "image": "/images/projects/Prognify.png",
+                "liveLink": "https://github.com/arafat-zihad/devJourney/tree/main/devProjects/Prognify",
+                "githubLink": "https://github.com/arafat-zihad/devJourney/tree/main/devProjects/Prognify"
+            },
+            {
+                "title": "NotePad - A Text Editor",
+                "type": "Java OOP",
+                "description": "A desktop text editor built for writing and managing plain text files. Supports file creation, editing, saving, and formatting within a simple user interface.",
+                "techStack": [
+                    "Java",
+                    "Java Swing"
+                ],
+                "category" : "Java OOP",
+                "image": "/images/projects/NotePad.png",
+                "liveLink": "https://github.com/arafat-zihad/NotePad",
+                "githubLink": "https://github.com/arafat-zihad/NotePad"
+            },
+            {
+                "title": "Autonomous Navigation Car",
+                "type": "Microprocessor",
+                "description": "Developed a robotic navigation system integrating microprocessors, multi-sensor telemetry, and motor control circuits. Highlights expertise in low-level firmware programming, signal processing, and autonomous obstacle avoidance.",
+                "techStack": [
+                    "Arduino",
+                    "Ultrasonic Sensor",
+                    "Servo Motor",
+                    "Motor Driver"
+                ],
+                "category" : "Microprocessor",
+                "image": "/images/projects/Autonomous_Navigation_Car.png",
+                
+                "githubLink": "https://github.com/arafat-zihad/Metropolitan-University/tree/main/Microprocessor/Autonomous-Navigation-Car"
+            }
+        ],
+        "about": {
+            "main": "I’m Arafat Zihad, a budding full-stack web developer based in Sylhet, Bangladesh. Since my first coding adventure in 8th grade, I’ve been hooked on technology.",
+            "skills": [
+                "CSE Student",
+                "Full Stack Development",
+                "Aspiring Software Enginner"
+            ],
+            "journey": "BSc in CSE student at Metropolitan University Sylhet. I blend design and development to craft innovative solutions.",
+            "passion": "In recent years, I’ve dived into coding, building robust front-end stacks and tackling real-world challenges. I’m passionate about making a difference through technology.",
+            "connect": "Explore my portfolio and let’s connect for collaborations!"
+        },
+        "socialLinks": {
+            "github": "https://github.com/arafat-zihad",
+            "linkedin": "https://www.linkedin.com/in/arafat-zihad/",
+            "medium": "https://medium.com/@arafat.zihad01",
+            "instagram": "https://www.instagram.com/xihad0.1/"
+        }
+    }
+}
